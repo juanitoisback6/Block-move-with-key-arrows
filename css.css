@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+
+
+
+* {
+  font-family: sans-serif;
+  background-color: rgb(255, 255, 255);
+  font-family: 'Pixelify Sans', sans-serif;
+  color: #000000;
+}
+
+
+#playgrounnd{
+
+background-color: aliceblue;
+width: 95vw;
+height: 90vh;
+
+}
+
+#block{
+
+position: absolute;
+width: 5vw;
+height: 5vh;
+top: 150px;
+
+
+}
